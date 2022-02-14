@@ -15,4 +15,8 @@
 : การเตรียมการเพื่อพัฒนาไมโครคอนโทรเลอร์
 1. เปิดเว็บ -> https://github.com/choompol-boonmee/iotset1
 2. โหลดโปรแกรม git
-3. เปิด command prompt -> รันคำสั่ง git
+3. เปิด command prompt -> รันคำสั่ง git clone มันจะโหลดสิ่งที่จำเป็นมาจาก internet
+4. Run Python 3.91 และ Run pip install -u platformio
+5.  เปิด command prompt -> cd iotset1/examples -> dir จากนั้นตรวจสอบโฟลเดอร์ ex01,ex02,ex03
+6.  Run ตัวอย่างที่ 1 โดย cd iotset1/examples/ex01 -> pio run
+7.  Run ตัวอย่างที่ 2 โดย cd iotset1/examples/ex02 -> pio run
