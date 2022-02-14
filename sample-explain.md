@@ -36,4 +36,28 @@
 - Line11 = สั่ง print เว้นบรรทัดไป3บรรทัด
 - Line14-23 = set ให้ val รับค่า input จากพอร์ท 0 สั่ง print ค่าที่อ่านได้ ถ้าอ่านได้ 1 output = low แต่ถ้าอ่านได้ 0 output = high และ Delay 0.1 วินาที ก่อนเริ่ม loop ซ้ำ
 -  ผลลัพธ์:
-- 
+## LAB5 การเขียนโปรแกรมเชื่อมต่อ Wifi และ webserver
+- Line1-2 = เชื่อมWifi และ server
+- Line5-6 = ประกาศตัวแปรเก็บ SSID กับ Password
+- Line8 = ตั้งค่า Server
+- Line10 = คำสั่งประกาศตัวแปร cnt
+- Line12-20 = ตั้งโหมด Wifi เป็น STA เชื่อมต่อ Wifi ด้วย SSID กับ Password ในตอนแรก Check Wifi ว่าเชื่อมต่อหรือยังทุก ๆ 5 วินาที หากยังไม่เชื่อมจะ print จุดออกมาเรื่อย ๆ
+- Line21-22 = print IP Address
+- Line24-26 = ถ้าไม่เชื่อมต่อ print' Path Not Found '
+- Line28-48 = ถ้าเชื่อมต่อแล้ว print' Hello : cnt '
+- Line50-51 = คำสั่งเรื่ม start server และ print 'HTTP Server Started'
+- Line54-56 = ให้ Server เตรียมรับคำสั่ง และ loop เรื่อยๆ
+-  ผลลัพธ์:
+## LAB6 การเขียนโปรแกรมสร้าง Wifi แอคเชสพอยต์ (Wifi AP)
+- Line1-2 = เชื่อมWifi และ server
+- Line5-6 = ประกาศตัวแปรเก็บ SSID กับ Password
+- Line8-10 = ตั้งค่า IP Address
+- Line12 = ตั้งค่า Server
+- Line14 = คำสั่งประกาศตัวแปร cnt
+- Line16-17 = คำสั่งที่ตั้งค่าให้คอมพิวเตอร์เชื่อมกับ microcontroller
+- Line19-20 = ตั้งค่า SSID , Password และค่าอื่น ๆ ตามตัวแปรที่กำหนดไว้
+- Line23-25 = ถ้าไม่เชื่อมต่อ print' Path Not Found '
+- Line27-32 = ถ้าเชื่อมต่อแล้ว print' Hello : cnt '
+- Line34-35 = สั่งให้ Start Server และ print 'HTTP Server Started'
+- Line38-40 = ให้ Server เตรียมรับคำสั่ง และ loop เรื่อยๆ
+-  ผลลัพธ์:
