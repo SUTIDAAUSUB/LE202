@@ -12,7 +12,7 @@
           -1-14-inch-lcd-development-board
 	ความเร็ว: 12 Mbps
   	หน่วยความจำ: 4 MByte SPI Flash , 520 KByte SRAM , 448 KByte ROM
-  	พอร์ท: -
+  	พอร์ท: 38 pin
 
 ## Model 3: 8255 (CPU PERIPHERAL)
   	ราคา: $ 6.95
