@@ -1,18 +1,18 @@
 # สำรวจบอร์ด microcontroller
 ## Model 1: RISC-V (SparkFun RED-V RedBoard - SiFive RISC-V FE310 SoC)
-  ราคา: $39.95
+  	ราคา: $39.95
 	ลิงก์ที่มา: https://www.sparkfun.com/products/15594
  	ความเร็ว: 256 MHz (default), 320MHz (Max)
 	หน่วยความจำ: 16 KB Instruction Cache, 16 KB Data Scratchpad
 	พอร์ท:  19  pin
   
 ## Model 2: ESP32 (Silicon Labs CP2104 USB-UART interface.)
-  ราคา: 495.00-665.00 บาท
+  	ราคา: 495.00-665.00 บาท
 	ลิงก์ที่มา: https://www.mcucity.com/product/3759/ttgo-t-display-esp32-wifi-bluetooth-module
           -1-14-inch-lcd-development-board
 	ความเร็ว: 12 Mbps
-  หน่วยความจำ: 4 MByte SPI Flash , 520 KByte SRAM , 448 KByte ROM
-  พอร์ท: -
+  	หน่วยความจำ: 4 MByte SPI Flash , 520 KByte SRAM , 448 KByte ROM
+  	พอร์ท: -
 
 ## Model 3: 8255 (CPU PERIPHERAL)
   ราคา: $ 6.95
