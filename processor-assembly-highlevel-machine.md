@@ -46,4 +46,4 @@
 
 ### แหล่งอ้างอิง
 - (1) https://sites.google.com/site/sutth2542/phasa-khxmphiwtexr-1
-- (2) 
+- (2) https://lab.ecu-shop.com/%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%82/
